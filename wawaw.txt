@@ -1,7 +1,7 @@
 {
    "success":true,
    "type":"success",
-   "message":"Attack has been successfuly launched",
+   "message":"Attack has been successfuly launched ^-^",
    "extra":{
       "information":{
          "attackid":"234",
@@ -9,21 +9,20 @@
          "target":"127.0.0.1",
          "port":80,
          "time":120,
-         "methodid":1,
          "method":"Spoofed UDP",
          "timestamp":1607830023,
          "expire":1607830143
       },
       "successes":[
          {
-            "serverid":"3",
-            "servername":"Charlie",
+            "serverid":"1",
+            "servername":"Malcious-8-Core",
             "timestamp":1607830020,
             "expire":1607830140
          },
          {
-            "serverid":"1",
-            "servername":"Alpha",
+            "serverid":"2",
+            "servername":"Malcious-16-Core",
             "timestamp":1607830023,
             "expire":1607830143
          }
